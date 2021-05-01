@@ -234,7 +234,7 @@ ideologies = [
         }
     },
     {
-        "name": "Im gonna Grill my way through the apocalypse, or die trying",
+        "name": "Im gonna go down grilling",
         "stats": {
             "econ": 50,
             "dipl": 50,
